@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.facebooksearch
+
+{
+margin-top: 15%;
+font-family: 'Poppins', sans-serif;
+margin-left:8% ;
+display: inline-block;
+}
+.form1
+{
+  border: none;
+  outline:solid rgb(204, 200, 200) 1px;
+  height: 450px;
+  width: 470px;
+display: inline-block;
+margin-left: 750px; 
+border-radius:12px;
+background-color: #fff;
+box-shadow:2px;
+margin-top:-250px;
+}
+input{
+  padding:18px;
+  width:100%;
+  margin-top:18px;
+  border-radius:5px;
+  border: none;
+  outline:solid rgb(204, 200, 200) 1px;
+font-size: medium;
+}
+button{
+  width:100%;
+  padding:16px;
+  border-radius:8px;
+  border:none;
+  background-color: ;
+}
+
+.input-box{
+  padding:15px;
+}
+.btn
+{
+  padding:12px;
+}
+
+.btn1{
+  
+  background-color:#2C77F2;
+  color:#fff;
+  font-size: large;
+}
+.btn2
+{
+  background-color: #2AA746;
+ color:#fff;
+ width:60%;
+ margin-left: 80px;
+ font-size: large;
+}
+.forget
+{
+  text-align:center;
+  color:#2C77F2;
+}
+.bar
+{
+  border:0.5px solid rgb(212, 206, 206);
+  width:90%;
+  margin-left:5%;
+}
